@@ -1,0 +1,69 @@
+.SectionMain{
+    background-color: #FFF4E0;
+    height: 100vh;
+    width: 100vw;
+}
+.one{
+    height: 93vh;
+    width: 100vw;
+    background-image: linear-gradient(to bottom right, #1C3144 50%, #FFF4E0 100%);
+    border-radius:0 0 20% 0; 
+    /* box-shadow: 15px 15px 60px -10px #222; */
+    /* box-shadow: 5px 5px 10px #222; */
+    box-shadow: 
+        0px 5px 10px rgba(0, 0, 0, 0.5), /* Bottom shadow */
+        5px 0px 10px rgba(0, 0, 0, 0.5); /* Right shadow */
+}
+.two{
+    height: 93vh;
+    width: 100vw;
+    background-image: linear-gradient(to bottom right, #1C3144 50%, #FFF4E0 100%);
+    border-radius:0 0 42% 0; 
+    /* box-shadow: 15px 15px 60px -10px #222; */
+    /* box-shadow: 5px 5px 10px #222; */
+    box-shadow: 
+        0px 5px 10px rgba(0, 0, 0, 0.5), /* Bottom shadow */
+        5px 0px 10px rgba(0, 0, 0, 0.5); /* Right shadow */
+
+}
+.three{
+    height: 93vh;
+    width: 100vw;
+    background-image: linear-gradient(to bottom right, #1C3144 50%, #FFF4E0 100%);
+    border-radius:0 0 67% 0;
+    /* box-shadow: 15px 15px 60px -10px #222; */
+    /* box-shadow: 5px 5px 10px #222; */
+    box-shadow: 
+        0px 5px 10px rgba(0, 0, 0, 0.5), /* Bottom shadow */
+        5px 0px 10px rgba(0, 0, 0, 0.5); /* Right shadow */
+
+}
+.leftt{
+    display: flex;
+    height: 100%;
+    width: 50%;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+    /* border: 2px solid black; */
+    padding-left: 10%;
+}
+.kelly-slab-regular {
+    font-family: "Kelly Slab", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.leftt h2,h1{
+    color: #FFBF9B;
+}
+.leftt h1{
+    font-family: "Kelly Slab", sans-serif;
+    font-size: 400%;
+
+}
+.leftt h2{
+    font-family: "Hepta Slab", serif;
+    font-weight: 280;
+    font-size: 300%;
+}

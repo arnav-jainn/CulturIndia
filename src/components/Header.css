@@ -1,0 +1,49 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #011C2B;
+}
+.logo_img{
+    height: 100%;
+    width: 20%;
+    
+}
+.logo{
+    display: flex;
+    align-items: center;
+    /* margin:1%; */
+    margin-left: 1%;
+    color: white;
+    gap: 2%;
+}
+
+.logo a{
+    text-decoration: none;
+    color:white;
+}
+
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 40%;
+    padding-right: 15%;
+
+}
+.home a{
+    text-decoration: none;
+    color:white;
+}
+
+.signup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 10%;
+    color: white;
+    gap: 6%;
+}
+.signup a{
+    text-decoration: none;
+    color:white;
+}

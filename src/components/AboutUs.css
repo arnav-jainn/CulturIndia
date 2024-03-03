@@ -1,0 +1,11 @@
+.AboutMain{
+    background-color: #FFF4E0;
+    height: 100vh;
+    width: 100vw;
+}
+.Aheading{
+    color: #B46060;
+    font-family: "Hepta Slab", serif;
+    padding-left: 5%;
+    font-size: 300%;
+}
